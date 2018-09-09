@@ -1,2 +1,2 @@
-# SangrLa
+# SangriLa
 Just for friends 
